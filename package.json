@@ -2,11 +2,10 @@
   "name": "profilecard",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https:///Banuppiriya.github.io/profilecard",
+  "homepage": "https://banuppiriya.github.io/profilecard/",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "build": "vite build",
